@@ -1,6 +1,8 @@
 # OCR
 IMAGE-TO-TEXT USING PYTESSERACT
 
+<img src = 'https://s3.amazonaws.com/element-ai-website-bucket/_768x634_crop_center-center_60_line/OCR-Desktop-front@2x.png' height=450 width=650/>
+
 Based on my recent experience with this pytesseract on Windows, follow these steps in sequence :
 
 Install tesseract using windows installer available at: https://github.com/UB-Mannheim/tesseract/wiki
