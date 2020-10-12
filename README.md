@@ -1,5 +1,5 @@
 # OCR
-IMAGE-TO-TEXT USING PYTESSERACT
+IMAGE-TO-TEXT USING PYTESSERACT AND EASYOCR
 
 <img src = 'https://s3.amazonaws.com/element-ai-website-bucket/_768x634_crop_center-center_60_line/OCR-Desktop-front@2x.png' height=450 width=650/>
 
