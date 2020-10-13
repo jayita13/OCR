@@ -14,3 +14,6 @@ pip install pytesseract
 Set the tesseract path in the script before calling image_to_string:
 
 pytesseract.pytesseract.tesseract_cmd = r'C:\Users\USER\AppData\Local\Tesseract-OCR\tesseract.exe'
+
+
+# FOR EasyOCR VISIT MY ARTICLE: https://analyticsindiamag.com/hands-on-tutorial-on-easyocr-for-scene-text-detection-in-images/
